@@ -45,4 +45,4 @@ Voici la liste de nos questions pour le client, pour le sujet 12 (Support inform
 28. Combien d'utilisateurs simultanés faut-il prévoir ?
 
 Cordialement,
-[Noms de l'équipe]
+Ghrairi Med Amin, Noumi Raed, Aidi Yassmine & Guesmi Farah
